@@ -3442,7 +3442,7 @@
         },
         {
             "text_id": "EP1_SHIFT1_9",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -3466,7 +3466,7 @@
         },
         {
             "text_id": "EP1_SHIFT2_3",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -3700,7 +3700,7 @@
         },
         {
             "text_id": "EP1_SHIFT8_2",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -4572,7 +4572,7 @@
         },
         {
             "text_id": "EP2_SHIFT10_5",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -4692,7 +4692,7 @@
         },
         {
             "text_id": "EP2_SHIFT12_6",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -4866,7 +4866,7 @@
         },
         {
             "text_id": "EP2_SHIFT16_4",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -5052,7 +5052,7 @@
         },
         {
             "text_id": "EP2_SHIFT20_8",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -5124,7 +5124,7 @@
         },
         {
             "text_id": "EP2_SHIFT21_9",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -5744,7 +5744,7 @@
         },
         {
             "text_id": "EP3_SHIFT13_3",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -5804,7 +5804,7 @@
         },
         {
             "text_id": "EP3_SHIFT16_6",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6068,7 +6068,7 @@
         },
         {
             "text_id": "EP3_SHIFT25_8",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6248,7 +6248,7 @@
         },
         {
             "text_id": "EP3_SHIFT30_8",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6464,7 +6464,7 @@
         },
         {
             "text_id": "EP3_SHIFT37_4",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6476,7 +6476,7 @@
         },
         {
             "text_id": "EP3_SHIFT37_6",
-            "text": "  ",
+            "text": " ",
             "note": "",
             "length": -1
         },
@@ -6494,7 +6494,7 @@
         },
         {
             "text_id": "EP3_SHIFT37_9",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6512,7 +6512,7 @@
         },
         {
             "text_id": "EP3_SHIFT39_1",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6578,7 +6578,7 @@
         },
         {
             "text_id": "EP3_SHIFT40_2",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6614,7 +6614,7 @@
         },
         {
             "text_id": "EP3_SHIFT40_8",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6826,7 +6826,7 @@
         },
         {
             "text_id": "EP4_SHIFT0_3",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -6904,7 +6904,7 @@
         },
         {
             "text_id": "EP4_SHIFT1_4",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -7396,7 +7396,7 @@
         },
         {
             "text_id": "EP4_SHIFT20_4",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -7450,7 +7450,7 @@
         },
         {
             "text_id": "EP4_SHIFT21_5",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -7660,7 +7660,7 @@
         },
         {
             "text_id": "EP4_SHIFT30_5",
-            "text": "  ",
+            "text": " ",
             "note": "",
             "length": -1
         },
@@ -7690,7 +7690,7 @@
         },
         {
             "text_id": "EP4_SHIFT30_10",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -7768,7 +7768,7 @@
         },
         {
             "text_id": "EP4_SHIFT34_2",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -7858,7 +7858,7 @@
         },
         {
             "text_id": "EP4_SHIFT36_6",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -7870,7 +7870,7 @@
         },
         {
             "text_id": "EP4_SHIFT36_8",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -7972,7 +7972,7 @@
         },
         {
             "text_id": "EP4_SHIFT40_4",
-            "text": "  ",
+            "text": " ",
             "note": "",
             "length": -1
         },
@@ -8358,7 +8358,7 @@
         },
         {
             "text_id": "EP5_DAY2_DAY_START4",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -8664,7 +8664,7 @@
         },
         {
             "text_id": "EP5_DAY5_DAY_START1",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -8838,7 +8838,7 @@
         },
         {
             "text_id": "EP5_DAY6_DAY_START4",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -8904,7 +8904,7 @@
         },
         {
             "text_id": "EP5_DAY6_DAY_END10",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -8994,7 +8994,7 @@
         },
         {
             "text_id": "EP5_DAY7_DAY_END3",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -9294,7 +9294,7 @@
         },
         {
             "text_id": "EP5_DAY10_DAY_START3",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -9402,7 +9402,7 @@
         },
         {
             "text_id": "EP5_DAY10_DAY_END11",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -9446,7 +9446,7 @@
         },
         {
             "text_id": "EP6_DAY1_DAY_START2",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -9500,7 +9500,7 @@
         },
         {
             "text_id": "EP6_DAY1_DAY_START11",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -9626,7 +9626,7 @@
         },
         {
             "text_id": "EP6_DAY2_DAY_END3",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -9854,7 +9854,7 @@
         },
         {
             "text_id": "EP6_DAY5_DAY_START2",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
@@ -10076,7 +10076,7 @@
         },
         {
             "text_id": "EP6_DAY7_DAY_START3",
-            "text": " ",
+            "text": "",
             "note": "",
             "length": -1
         },
